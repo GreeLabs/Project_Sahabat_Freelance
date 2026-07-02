@@ -138,7 +138,7 @@ The project maintains high code quality standards and includes a comprehensive t
 
 ## 📞 Contact
 
-**Your Name** - [sahrulcc07@gmail.com](mailto:sahrulcc07@gmail.com)
+**My Name** - [sahrulcc07@gmail.com](mailto:sahrulcc07@gmail.com)
 
 Project Link: [https://github.com/GreeLabs/Project_Sahabat_Freelance](https://github.com/GreeLabs/Project_Sahabat_Freelance)
 
