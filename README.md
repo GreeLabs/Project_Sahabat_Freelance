@@ -138,9 +138,9 @@ The project maintains high code quality standards and includes a comprehensive t
 
 ## 📞 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Your Name** - [sahrulcc07@gmail.com](mailto:sahrulcc07@gmail.com)
 
-Project Link: [https://github.com/yourusername/RemakeFreelance](https://github.com/yourusername/RemakeFreelance)
+Project Link: [https://github.com/GreeLabs/Project_Sahabat_Freelance](https://github.com/GreeLabs/Project_Sahabat_Freelance)
 
 ---
 <div align="center">
